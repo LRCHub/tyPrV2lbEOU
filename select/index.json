@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "rainonme",
+  "base_artist": "Kanii、Frex",
+  "createdAt": "2025-12-01T03:23:27.260205Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rain On Me",
+      "artist": "Ashanti",
+      "has_synced": false,
+      "path": "select/pl_01_Rain_On_Me_Ashanti.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Rain On Me (with Ariana Grande)",
+      "artist": "Ashanti",
+      "has_synced": false,
+      "path": "select/pl_02_Rain_On_Me_(with_Ariana_Grande)_Ashanti.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Rain On Me",
+      "artist": "Ashanti",
+      "has_synced": false,
+      "path": "select/pl_03_Rain_On_Me_Ashanti.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Rain On Me",
+      "artist": "Ashanti",
+      "has_synced": false,
+      "path": "select/pl_04_Rain_On_Me_Ashanti.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Rain On Me",
+      "artist": "Ashanti",
+      "has_synced": false,
+      "path": "select/pl_05_Rain_On_Me_Ashanti.txt"
+    }
+  ]
+}
